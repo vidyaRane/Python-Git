@@ -17,6 +17,7 @@ def remov_duplicates(input):
     # joins two adjacent elements in iterable way 
     s = " ".join(UniqW.keys()) 
     print (s) 
+    print("Sample1 executed Successfully")
   
 # Driver program 
 if __name__ == "__main__": 

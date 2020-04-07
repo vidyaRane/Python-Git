@@ -70,6 +70,7 @@ for i in range(n):
   
 mergeSort(arr,0,n-1) 
 print ("\n\nSorted array is") 
+print("Sample3 executed Successfully")
 for i in range(n): 
     print ("%d" %arr[i]), 
   
